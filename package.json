@@ -1,0 +1,28 @@
+{
+  "name": "mexico-history-books-db",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "init-db": "node initialize-database.js",
+    "dev": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robersan2212/mexico-history-books-db.git"
+  },
+  "keywords": ["firebase", "database", "mexican-history", "books"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robersan2212/mexico-history-books-db/issues"
+  },
+  "homepage": "https://github.com/Robersan2212/mexico-history-books-db#readme",
+  "dependencies": {
+    "firebase": "^11.9.0",
+    "readline-sync": "^1.4.10"
+  },
+  "description": "A Firebase database for organizing Mexican history books by historical periods"
+}
+
