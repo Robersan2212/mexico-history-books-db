@@ -2,7 +2,7 @@
 
 I developed a comprehensive Node.js application that manages a collection of Mexican history books using Firebase Firestore as the cloud database backend. The software demonstrates full CRUD operations (Create, Read, Update, Delete) with role-based authentication and secure access control.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Firebase video demo](https://www.youtube.com/watch?v=9eAuGovOcUM)
 
 # Cloud Database
 
